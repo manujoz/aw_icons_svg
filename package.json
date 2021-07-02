@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "author": {
+    "name": "Arisman Webs"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "aw_polymer_3": "^1.1.5"
+  },
+  "deprecated": false,
+  "description": "Iconos personalizados de Arisman Webs",
+  "keywords": [
+    "Arisman Webs"
+  ],
+  "license": "ISC",
+  "name": "aw_icons_svg"
+}
